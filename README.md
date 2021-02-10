@@ -1,6 +1,5 @@
 # Python-Ransomware
 
-YouTube Tutorial: https://www.youtube.com/watch?v=ScL07VJJOX4
 
 To test the Ransomware out on your machine,
 
